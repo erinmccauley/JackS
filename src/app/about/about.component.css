@@ -1,0 +1,15 @@
+h2 {
+    margin-top: 150px;
+    color: #006E62;
+    text-align: center;
+}
+.row {
+    margin-bottom: 50px;
+}
+
+.right {
+    height: 100vh;
+    overflow: hidden;
+    overflow-y: scroll; 
+    text-align: center;
+  }

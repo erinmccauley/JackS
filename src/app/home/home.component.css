@@ -1,0 +1,39 @@
+div#carouselExampleSlidesOnly {
+    margin-top: 125px;
+}
+
+a {
+    background-color: #DFE0DF;
+    color: #006E62;
+    font-weight: bold;
+}
+
+.caroImage {
+    opacity: 0.6;
+}
+h2 {
+    color: #006E62;
+    text-align: center;
+}
+
+p {
+    margin-top: 20px;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.homeQuote {
+    font-size:xx-large;
+    color: #006E62;
+    font-weight: bold;
+    text-shadow: 1px 0 0 DFE0DF, 0 -1px 0 #DFE0DF, 0 1px 0 #DFE0DF, -1px 0 0 #DFE0DF;
+}
+
+@media (max-width: 576px) {
+    .homeQuote {font-size:larger; font-weight: bolder;}
+    .caroImage {
+        opacity: 0.4;
+    }
+  }

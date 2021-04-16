@@ -1,0 +1,32 @@
+.row {
+    margin-bottom: 50px;
+}
+
+
+::ng-deep .panel
+{
+    background-color: #DFE0DF; 
+}
+::ng-deep .btn-link {
+  color: #006E62;     
+}
+
+::ng-deep .panel-collapse
+{
+    background-color: white; 
+}
+
+::ng-deep .btn {
+    white-space: normal;
+}
+
+fa-icon {
+    color: #006E62;
+    float: right;
+}
+
+h2 {
+    margin-top: 150px;
+    color: #006E62;
+    text-align: center;
+}

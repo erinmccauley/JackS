@@ -1,0 +1,25 @@
+.container {
+  margin-bottom: 50px;
+}
+
+h2 {
+  color: #006e62;
+  margin-top: 50px;
+}
+
+.btn-primary {
+  background-color: #dfe0df;
+  border-color: #dfe0df;
+  color: #006e62;
+  font-weight: bold;
+}
+
+form {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .col-md-6 {
+    max-width: 100%;
+  }
+}
